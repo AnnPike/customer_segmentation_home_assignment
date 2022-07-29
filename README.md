@@ -12,4 +12,5 @@ The output will be the same csv_file with additional column - 'category' - the c
 In addition there are two jupyter notebooks
 
 step 1 containes some data analysis, work with text and visualizations
+
 step 2 contain different clustering models i tried for this chalange with sores and cluster balance
