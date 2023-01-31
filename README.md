@@ -1,4 +1,4 @@
-# Konnecto_home_assignment
+# home assignment
 
 The report is in home_assignment.pdf
 
